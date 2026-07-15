@@ -30,14 +30,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- MS Office -->
+  <!-- MS Office (PNG Formatı - Asla Kırılmaz) -->
   <a href="https://www.office.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="msoffice" height="50" width="50"/>
+    <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="msoffice" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- MS Excel -->
+  <!-- MS Excel (PNG Formatı - Asla Kırılmaz) -->
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" height="50" width="50"/>
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="excel" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- HTML5 -->
