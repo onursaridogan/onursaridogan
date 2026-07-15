@@ -15,26 +15,39 @@
 ## 🛠️ Languages and Tools (Teknolojik Yetkinlikler)
 
 <p align="left">
+  <!-- Microsoft SQL Server (SSMS) -->
   <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" />
+    <img src="https://cdn.simpleicons.org/microsoftsqlserver" alt="mssql" height="50" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="powerbi" />
+    <img src="https://cdn.simpleicons.org/powerbi" alt="powerbi" height="50" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+    <img src="https://cdn.simpleicons.org/python" alt="python" height="50" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- MS Office -->
   <a href="https://www.office.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="msoffice" />
+    <img src="https://cdn.simpleicons.org/microsoftoffice" alt="msoffice" height="50" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- MS Excel -->
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />
+    <img src="https://cdn.simpleicons.org/microsoftexcel" alt="excel" height="50" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://cdn.simpleicons.org/html5" alt="html5" height="50" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://cdn.simpleicons.org/git" alt="git" height="50" width="50"/>
   </a>
 </p>
 
