@@ -15,39 +15,39 @@
 ## 🛠️ Languages and Tools (Teknolojik Yetkinlikler)
 
 <p align="left">
-  <!-- Microsoft SQL Server (SSMS) -->
+  <!-- Microsoft SQL Server -->
   <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftsqlserver" alt="mssql" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mssql.svg" alt="mssql" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/powerbi" alt="powerbi" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-power-bi.svg" alt="powerbi" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/python" alt="python" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- MS Office -->
   <a href="https://www.office.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftoffice" alt="msoffice" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-office.svg" alt="msoffice" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- MS Excel -->
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftexcel" alt="excel" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-excel.svg" alt="excel" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/html5" alt="html5" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="html5" height="50" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/git" alt="git" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="git" height="50" width="50"/>
   </a>
 </p>
 
