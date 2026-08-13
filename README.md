@@ -1,4 +1,4 @@
-# Hi 👋, I'm Onur Mustafa
+# Hi, I'm Onur Mustafa
 
 ### A passionate Business Intelligence (BI) Analyst & Data Enthusiast from Turkey 🇹🇷
 
